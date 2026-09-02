@@ -1,0 +1,11 @@
+[server]
+headless = false
+port = 8501
+maxUploadSize = 200
+runOnSave = true
+
+[browser]
+gatherUsageStats = false
+
+[theme]
+base = "light"

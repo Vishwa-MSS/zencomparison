@@ -1,0 +1,6 @@
+# Never rewrite line endings inside data or binary files
+*.csv -text
+*.xlsx -text
+
+# Windows launcher must keep CRLF
+*.bat text eol=crlf
